@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/rust:1-1-bullseye",
   "features": {
-    "ghcr.io/foundry-rs/foundry:latestt": {}
+    "ghcr.io/foundry-rs/foundry:latest": {}
   }
 }
